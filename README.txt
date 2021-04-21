@@ -10,6 +10,8 @@ También se trata de adjuntar 4 Tipos de Dato Abstraco (TDA) en una misma implem
 desarrollados son Lista, Pila, Cola e Iterador. Ademas se agrega un codigo de testeo el cual prueba
 todas las funciones que se desarrolaron en el trabajo.
 
+[SOLO CORRE DE MANERA CORRECTA EN UNA TERMINAL DE LINUX QUE TENGA GCC, MAKEFILE Y VALGRIND INSTALADOS]
+
 Para compilarlo y ejecutarlo se utliza Makefile. Se pueden realizar ambas instrucciones con una sola
 linea de comando. Dependerá de que testeo desee ejecutar (el más simple o el más complejo).
 
